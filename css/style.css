@@ -1,0 +1,114 @@
+/*      company logo and solgan       */
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrapper1{
+    /*border: 2px solid black;*/
+    width: 90%;
+    margin: 0 auto;
+    background-color: rgb(90, 90, 90);
+    padding: 10px 0;
+}
+#company{
+    text-align: center;
+    color: white;
+}
+/*  xxxx    company logo and solgan end xxxx      */
+
+/*      header       */
+.header{
+    /*border: 2px solid black;*/
+    width: 90%;
+    margin: 10px auto;
+    background-color: rgb(90, 90, 90);
+    padding: 100px 0;
+    text-align: center;
+    color: white;
+}
+/*    xxxx  header end xxxx     */
+
+/*       navigation end         */
+.wrapper2 {
+    /*border: 2px solid black;*/
+    overflow: hidden;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.nav1{
+    min-height: 50px;
+    width: 20%;
+    background-color: rgb(90, 90, 90);
+    float: left;
+    margin-right: 120px;
+}
+#nav{
+    text-align: center;
+    color: white;
+}
+.nav2{
+    min-height: 50px;
+    width: 20%;
+    background-color: rgb(90, 90, 90);
+    float: left;
+    margin-right: 100px;
+}
+.nav3{
+    min-height: 50px;
+    width: 20%;
+    background-color: rgb(90, 90, 90);
+    float: right;
+}
+.nav4{
+    min-height: 50px;
+    width: 20%;
+    background-color: rgb(90, 90, 90);
+    float: right;
+    margin-right: 110px;
+}
+/* xxxx navigation end xxxx*/
+
+/*       about start         */
+.wrapper3 {
+    /*border: 1px solid black;*/
+    width: 90%;
+    min-height: 490px;
+    margin: 0 auto;
+}
+.about{
+    float: left;
+    padding: 200px 450px;
+    background-color: rgb(90, 90, 90);
+    color: white;
+}
+.link1{
+    /*border: 1px solid black;*/
+    float: right;
+    padding: 60px 300px;
+    background-color: rgb(90, 90, 90);
+    margin-bottom: 20px;
+    color: white;
+}
+.link2{
+    /*border: 1px solid black;*/
+    margin-top: 25px;
+    float: right;
+    padding: 83px 300px;
+    color: white;
+    background-color: rgb(90, 90, 90);
+}
+/*      xxxx about end xxxx        */
+
+/*      footer start        */
+.footer{
+    /*border: 1px solid black;*/
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px 0;
+    background-color: rgb(90, 90, 90);
+}
+#footer{
+    color: white;
+    text-align: center;
+}
